@@ -5,10 +5,10 @@
 }
 
 :root {
-  --background-color: #121214;
-  --text-color: #f9f9f9;
-  --border: 1px solid #a8a8b3;
-  --news-title: #798595;
+  --background-color: #303446;
+  --text-color: #c6d0f5;
+  --border: 1px solid #c6d0f5;
+  --news-title: #51576d;
 }
 
 body {
@@ -159,7 +159,7 @@ footer a {
   align-items: center;
   margin: 3rem 0;
   font-family: "Poppins", sans-serif;
-  color: #c1c1c1;
+  color: #a5adce;
 }
 
 .greeting-box {
@@ -301,12 +301,6 @@ footer a {
   .greeting-container,
   footer {
     margin: 10rem auto;
-  }
-}
-
-@media (min-height: 768px) {
-  body {
-    overflow: scroll;
   }
 }
 
