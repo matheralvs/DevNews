@@ -320,6 +320,11 @@ footer a {
   background: transparent;
 }
 
+.news::-webkit-scrollbar-track {
+  margin-block-start: 3rem;
+  margin-block-end: 0.5rem;
+}
+
 *::-webkit-scrollbar-thumb {
   background-color: #798595;
   border-radius: 5px;
